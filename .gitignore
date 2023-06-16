@@ -1,0 +1,4 @@
+variables.tf
+terraform_accessKeys.csv
+terraform.tfstate.backup
+terraform.tfstate
